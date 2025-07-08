@@ -1,9 +1,6 @@
 {
-    "github_pat":"KEYHERE",
-    "gitlab_pat":"KEYHERE",
-    "bitbucket_username":"YOUR_BITBUCKET_USERNAME_HERE",
-    "bitbucket_app_password":"KEYHERE",
-    "brightdata_api_key":"KEYHERE",
-    "aws_access_key_id":"KEYHERE",
-    "aws_secret_access_key":"KEYHERE"
+  "github_pat": "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",
+  "github_owner": "johnfrancois1990",
+  "github_repo": "newtowner", // Or your fork's name
+  "github_default_branch": "main",
 }
